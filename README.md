@@ -1,2 +1,2 @@
 # getdotnet
-Website for downloading .NET.
+A Website to download.NET.
